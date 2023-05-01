@@ -7,3 +7,5 @@ def media_aritmetica(valores):
             return sum(valores) / quantidade
         else:
             return False
+
+# teste
