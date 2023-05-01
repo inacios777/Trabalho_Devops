@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "package_rafael"
+version = "0.0.1"
+authors = [
+  { name="Rafael Inacio ", email="inacios777@hotmail.com" },
+]
+description = "Caluculo da media aritimetica"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/inacios777/Trabalho_Devops.git"
+"Bug Tracker" = "https://github.com/inacios777/Trabalho_Devops/issues"
